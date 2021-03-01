@@ -2,5 +2,5 @@
 
 My first repository :)
 
-Here are the first edits 
+Here are the first edits:
 やった！
